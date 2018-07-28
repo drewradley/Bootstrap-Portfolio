@@ -66,15 +66,11 @@ h3 {
 }
 .navbar-nav
 {
-  /* margin-left:700px; */
   width:100%;
   align-items:right;
   float: right;
 }
-/* .nav-item
-{
-  float: right;
-} */
+
 .navbar-brand
 {
   font-family: Georgia, Times, "Times New Roman", serif;
@@ -111,13 +107,7 @@ h3 {
   color:white;
   background: #4aaaa5;
 }
-.portfolioinset
-{
-  position: relative;
-  /* float: left; */
 
-  bottom: 1000;
-}
 .jumbotron
 {
   margin-top: 100px;
